@@ -1,1 +1,1 @@
-import Count from '../src/js/Count.js'; // unrecognized
+import Count from '../src/js/count.js'; // unrecognized
